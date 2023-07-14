@@ -1,4 +1,4 @@
-- 👋 Hi, I’m metehan
+- 👋 Hi, I’m Metehan
 - 👀 Sabancı Mesleli ve Teknik Anadolu Lisesi Bilişim,Yazılım Geliştirme
 - 🌱C#,Python,Java
 
